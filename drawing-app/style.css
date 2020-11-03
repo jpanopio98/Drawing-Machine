@@ -15,3 +15,7 @@ canvas {
   left: 0;
   position: absolute;
 }
+h2{
+  text-align: right;
+  padding-left: 500px;
+}
